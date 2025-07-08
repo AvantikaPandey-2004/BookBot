@@ -1,0 +1,7 @@
+flask
+langchain
+langchain-openai
+langchain-milvus
+openai
+python-dotenv
+pymilvus
